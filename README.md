@@ -16,3 +16,7 @@ Connection_probabilities: Interactive PowerPoint with all connection probabiliti
 Connection_strengths: Interactive PowerPoint with all connection strengths (unitary PSP in mV). You can click on every number to see the references used and assumptions (if any), from Allen Institute.
 
 Projection_probability_Jiatong: it contains data and formulas about how Jiatong determine the average number of neurons that are projecting to one specific neuron.
+
+[Group Meeting Slides] available at https://drive.google.com/drive/folders/1DAuWVT_5KFaWa_OhixXwz3bfJbkMMTzF?usp=drive_link
+
+[Research Document] Provide the basic knowledge and core design methods of my project.
